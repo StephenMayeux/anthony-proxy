@@ -1,0 +1,16 @@
+{
+  "name": "anthony-proxy",
+  "version": "1.0.0",
+  "description": "An example proxy for Anthony to learn much things",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Anthony Lapham",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "node-fetch": "^1.7.3"
+  }
+}
